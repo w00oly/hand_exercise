@@ -1,4 +1,4 @@
-Hand Exercise - MediaPipe 專案
+#Hand Exercise - MediaPipe 專案
 這是一個使用 Anaconda 環境與 MediaPipe 實作的手勢辨識專案。
 
 🚀 環境安裝指南 (組員必看)
